@@ -9,6 +9,7 @@ Olá! Sou [Seu Nome], um estagiário de desenvolvimento Full Stack na LEDAX Ener
 [<img src="https://cdn.svgporn.com/logos/html-5.svg" alt="HTML" width="50px" height="50px">](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [<img src="https://cdn.svgporn.com/logos/css-3.svg" alt="CSS" width="50px" height="50px">](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [<img src="https://cdn.svgporn.com/logos/javascript.svg" alt="JavaScript" width="50px" height="50px">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img src="https://cdn.svgporn.com/logos/react.svg" alt="React" width="50px" height="50px">](https://reactjs.org/)
 
 ### Back-end
 [<img src="https://cdn.svgporn.com/logos/python.svg" alt="Python" width="50px" height="50px">](https://www.python.org/)
@@ -17,7 +18,7 @@ Olá! Sou [Seu Nome], um estagiário de desenvolvimento Full Stack na LEDAX Ener
 [<img src="https://cdn.svgporn.com/logos/fastapi-icon.svg" alt="FastAPI" width="50px" height="50px">](https://fastapi.tiangolo.com/)
 [<img src="https://cdn.svgporn.com/logos/sqlalchemy.svg" alt="SQLAlchemy" width="50px" height="50px">](https://www.sqlalchemy.org/)
 
-Estou sempre buscando expandir meus conhecimentos nessas tecnologias e explorar novas ferramentas para aprimorar minhas habilidades no desenvolvimento de software.
+Estou sempre buscando expandir meus conhecimentos nessas tecnologias e explorar novas ferramentas para aprimorar minhas habilidades no desenvolvimento de software, incluindo o uso do React para criar interfaces de usuário interativas e reativas.
 
 ## Projetos
 
