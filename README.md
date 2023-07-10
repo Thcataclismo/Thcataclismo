@@ -35,5 +35,5 @@ Sinta-se à vontade para explorar meus repositórios para mais projetos e contri
 
 Você pode entrar em contato comigo através dos seguintes meios:
 
-- Email: (Thiago2002sr@gmailcom)(https://cdn.svgporn.com/logos/gmail-icon.svg)((https://cdn.svgporn.com/logos/gmail-icon.svg))
-- LinkedIn: (https://www.linkedin.com/in/thiago-ribeiroml/)https://www.linkedin.com/in/thiago-ribeiroml/)((https://cdn.svgporn.com/logos/linkedin-icon.svg)](link-para-o-seu-perfil)).
+- Email: (Thiago2002sr@gmailcom)
+- LinkedIn: (https://www.linkedin.com/in/thiago-ribeiroml/)
