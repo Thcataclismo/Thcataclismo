@@ -14,7 +14,7 @@ Olá! Sou [Seu Nome], um estagiário de desenvolvimento Full Stack na LEDAX Ener
 [<img src="https://cdn.svgporn.com/logos/python.svg" alt="Python" width="50px" height="50px">](https://www.python.org/)
 [<img src="https://cdn.svgporn.com/logos/mysql.svg" alt="MySQL" width="50px" height="50px">](https://www.mysql.com/)
 [<img src="https://cdn.svgporn.com/logos/oracle.svg" alt="Oracle PL/SQL" width="50px" height="50px">](https://www.oracle.com/database/technologies/appdev/plsql.html)
-[<img src="https://cdn.svgporn.com/logos/fastapi.svg" alt="FastAPI" width="50px" height="50px">](https://fastapi.tiangolo.com/)
+[<img src="https://cdn.svgporn.com/logos/fastapi-icon.svg" alt="FastAPI" width="50px" height="50px">](https://fastapi.tiangolo.com/)
 [<img src="https://cdn.svgporn.com/logos/sqlalchemy.svg" alt="SQLAlchemy" width="50px" height="50px">](https://www.sqlalchemy.org/)
 
 Estou sempre buscando expandir meus conhecimentos nessas tecnologias e explorar novas ferramentas para aprimorar minhas habilidades no desenvolvimento de software.
