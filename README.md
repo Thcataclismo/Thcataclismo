@@ -1,7 +1,7 @@
 # Bem-vindo(a) ao meu perfil!
 
 ## Sobre mim
-Olá! Sou [Seu Nome], um estagiário de desenvolvimento Full Stack na LEDAX Energia. Sou apaixonado por tecnologia e tenho experiência em várias ferramentas e tecnologias do mundo do desenvolvimento de software.
+Olá! Sou Thiago Ribeiro, um estagiário de desenvolvimento Full Stack na LEDAX Energia. Sou apaixonado por tecnologia e tenho experiência em várias ferramentas e tecnologias do mundo do desenvolvimento de software.
 
 ## Ferramentas
 
@@ -24,8 +24,10 @@ Estou sempre buscando expandir meus conhecimentos nessas tecnologias e explorar 
 
 Aqui estão alguns projetos que desenvolvi recentemente:
 
-- [Projeto 1](link-para-o-projeto): Breve descrição do projeto.
-- [Projeto 2](link-para-o-projeto): Breve descrição do projeto.
+- Gerenciamento de Conteudo: (https://github.com/Thcataclismo/GerenciamentoDeConteudo): Neste projeto ultilizo FastAPI, para validar dados, e fazer tratamento de erro.
+- LandingPage: (https://github.com/Thcataclismo/landingpage): Neste projeto criei uma LandingPage ultilizando HTML,CSS e JavaScript.
+- Previsao de venda de casas nos EUA: (https://github.com/Thcataclismo/Previs-o_de_vendas_de_im-veis_nos_EUA).Neste projeto ultilizo o python e algumas bibliotecas para poder fazer uma regressao linear e poder realizar a previsao(pandas, numpy, matplotlib.pyplot, seaborn, warnings, sklearn, MinMaxScaler, tensorflow, Keras).
+FastAPI com SqlAlchemy(https://github.com/Thcataclismo/FastAPI_SQLAlchemy/blob/main/main.py)
 
 Sinta-se à vontade para explorar meus repositórios para mais projetos e contribuições.
 
@@ -33,5 +35,5 @@ Sinta-se à vontade para explorar meus repositórios para mais projetos e contri
 
 Você pode entrar em contato comigo através dos seguintes meios:
 
-- Email: seu-email@example.com
-- LinkedIn: [Seu Perfil](link-para-o-seu-perfil)
+- Email: Thiago2002sr@gmailcom
+- LinkedIn: (https://www.linkedin.com/in/thiago-ribeiroml/)https://www.linkedin.com/in/thiago-ribeiroml/).
