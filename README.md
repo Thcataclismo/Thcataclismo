@@ -1,7 +1,7 @@
 # Bem-vindo(a) ao meu perfil!
 
 ## Sobre mim
-Olá! Sou Thiago Ribeiro, um estagiário de desenvolvimento Full Stack na LEDAX Energia. Sou apaixonado por tecnologia e tenho experiência em várias ferramentas e tecnologias do mundo do desenvolvimento de software.
+Olá! Sou Thiago Ribeiro, Trabalho com desenvolvimento Full Stack na LEDAX Energia. Sou apaixonado por tecnologia e tenho experiência em várias ferramentas e tecnologias do mundo do desenvolvimento de software e machine learning.
 
 ## Ferramentas
 
@@ -18,6 +18,9 @@ Olá! Sou Thiago Ribeiro, um estagiário de desenvolvimento Full Stack na LEDAX 
 [<img src="https://cdn.svgporn.com/logos/fastapi-icon.svg" alt="FastAPI" width="50px" height="50px">](https://fastapi.tiangolo.com/)
 [<img src="https://cdn.svgporn.com/logos/sqlalchemy.svg" alt="SQLAlchemy" width="50px" height="50px">](https://www.sqlalchemy.org/)
 
+### DevOps
+[<img src="[https://cdn.svgporn.com/logos/python.svg" alt="Python" width="50px" height="50px](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.docker.com%2Fwp-content%2Fuploads%2F2022%2F03%2Fvertical-logo-monochromatic.png&tbnid=Y1g3nvbSq1cIQM&vet=12ahUKEwim74Wj6IyAAxXTFbkGHbNEAMkQMygGegUIARDsAQ..i&imgrefurl=https%3A%2F%2Fwww.docker.com%2Fcompany%2Fnewsroom%2Fmedia-resources%2F&docid=qTskOJD2jFCQpM&w=1316&h=1126&q=docker&ved=2ahUKEwim74Wj6IyAAxXTFbkGHbNEAMkQMygGegUIARDsAQ)">]
+
 Estou sempre buscando expandir meus conhecimentos nessas tecnologias e explorar novas ferramentas para aprimorar minhas habilidades no desenvolvimento de software, incluindo o uso do React para criar interfaces de usuário interativas e reativas.
 
 ## Projetos
@@ -30,10 +33,6 @@ Aqui estão alguns projetos que desenvolvi recentemente:
 FastAPI com SqlAlchemy(https://github.com/Thcataclismo/FastAPI_SQLAlchemy/blob/main/main.py)
 
 Sinta-se à vontade para explorar meus repositórios para mais projetos e contribuições.
-
-## Contato
-
-Você pode entrar em contato comigo através dos seguintes meios:
 
 ## **GitHub Estatísticas**
 
