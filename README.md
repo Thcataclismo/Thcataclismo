@@ -35,5 +35,21 @@ Sinta-se à vontade para explorar meus repositórios para mais projetos e contri
 
 Você pode entrar em contato comigo através dos seguintes meios:
 
-- Email: (Thiago2002sr@gmailcom)
-- LinkedIn: (https://www.linkedin.com/in/thiago-ribeiroml/)
+## **GitHub Estatísticas**
+
+<a href="https://github.com/Gurupreet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessaswerts&theme=dracula&hide_langs_below=1" />
+</a>
+
+<a href="https://github.com/Gurupreet">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanessaswerts&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
+</a>
+
+#### Rede Sociais!
+
+🏡 [website][website] **|** 
+🐦 [twitter][twitter] **|** 
+📺 [youtube][youtube] **|** 
+📷 [instagram][instagram] **|** 
+👔 [linkedin][linkedin]
+
