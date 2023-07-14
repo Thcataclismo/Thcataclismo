@@ -16,7 +16,7 @@ src="https://cdn.svgporn.com/logos/css-3.svg" alt="CSS" width="50px" height="50p
 src="https://cdn.svgporn.com/logos/javascript.svg" alt="JavaScript" width="50px" height="50px">
 </code>
 <code><img height="30" 
-[<img src="https://cdn.svgporn.com/logos/react.svg" alt="React" width="50px" height="50px">
+src="https://cdn.svgporn.com/logos/react.svg" alt="React" width="50px" height="50px">
 </code>
 
 ### Back-end
