@@ -50,9 +50,9 @@ Sinta-se à vontade para explorar meus repositórios para mais projetos e contri
 
 ## **GitHub Estatísticas**
 
-[![card](https://github-readme-stats.vercel.app/api?username=iuricode&theme=default&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![card](https://github-readme-stats.vercel.app/api?username=iuricode&theme=default&show_icons=true)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/Thcataclismo?tab=repositories))
 
-[![Thcataclismo](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+[![Thcataclismo](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=default)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/Thcataclismo?tab=repositories))
 
 #### Rede Sociais!
 
