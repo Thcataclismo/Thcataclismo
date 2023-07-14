@@ -1,9 +1,15 @@
 # Bem-vindo(a) ao meu perfil!
 
+---
+
 ## Sobre mim
 Olá! Sou Thiago Ribeiro, Trabalho com desenvolvimento Full Stack na LEDAX Energia. Sou apaixonado por tecnologia e tenho experiência em várias ferramentas e tecnologias do mundo do desenvolvimento de software e machine learning.
 
+---
+
 ## Ferramentas
+
+---
 
 ### Front-end
 <code><img height="30" 
@@ -17,6 +23,8 @@ src="https://cdn.svgporn.com/logos/javascript.svg" alt="JavaScript" width="50px"
 </code>
 <code><img height="30" 
 src="https://cdn.svgporn.com/logos/react.svg" alt="React" width="50px" height="50px">
+
+---
 
 ### Back-end
 <code><img height="30" 
@@ -55,11 +63,9 @@ Sinta-se à vontade para explorar meus repositórios para mais projetos e contri
 ## ⭐ Informações sobre minha conta GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thcataclismo&show_icons=true)
 
-<a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thcataclismo&theme=dracula&hide_langs_below=1" />
-</a>
-
 [![Thcataclismo](https://github-readme-stats.vercel.app/api/top-langs/?username=Thcataclismo&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+
+---
 
 #### Rede Sociais!
 
