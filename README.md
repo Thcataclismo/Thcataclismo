@@ -12,8 +12,12 @@ src="https://cdn.svgporn.com/logos/html-5.svg" alt="HTML" width="50px" height="5
 <code><img height="30" 
 src="https://cdn.svgporn.com/logos/css-3.svg" alt="CSS" width="50px" height="50px">
 </code>
-[<img src="https://cdn.svgporn.com/logos/javascript.svg" alt="JavaScript" width="50px" height="50px">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<img src="https://cdn.svgporn.com/logos/react.svg" alt="React" width="50px" height="50px">](https://reactjs.org/)
+<code><img height="30" 
+src="https://cdn.svgporn.com/logos/javascript.svg" alt="JavaScript" width="50px" height="50px">
+</code>
+<code><img height="30" 
+[<img src="https://cdn.svgporn.com/logos/react.svg" alt="React" width="50px" height="50px">
+</code>
 
 ### Back-end
 [<img src="https://cdn.svgporn.com/logos/python.svg" alt="Python" width="50px" height="50px">](https://www.python.org/)
