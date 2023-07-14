@@ -58,6 +58,7 @@ Sinta-se à vontade para explorar meus repositórios para mais projetos e contri
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Thcataclismo&show_icons=true&theme=dracula&line_height=27" alt="**Thiago Ribeiro** github stats"/>
 </a>
 
+
 #### Rede Sociais!
 
 <p align="left">
