@@ -59,6 +59,8 @@ Sinta-se à vontade para explorar meus repositórios para mais projetos e contri
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thcataclismo&theme=dracula&hide_langs_below=1" />
 </a>
 
+[![Thcataclismo](https://github-readme-stats.vercel.app/api/top-langs/?username=Thcataclismo&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+
 #### Rede Sociais!
 
 <p align="left">
