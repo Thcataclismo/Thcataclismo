@@ -37,6 +37,8 @@ src="https://cdn.svgporn.com/logos/sqlalchemy.svg" alt="SQLAlchemy" width="50px"
 
 Estou sempre buscando expandir meus conhecimentos nessas tecnologias e explorar novas ferramentas para aprimorar minhas habilidades no desenvolvimento de software, incluindo o uso do React para criar interfaces de usuário interativas e reativas.
 
+---
+
 ## Projetos
 
 Aqui estão alguns projetos que desenvolvi recentemente:
@@ -52,6 +54,10 @@ Sinta-se à vontade para explorar meus repositórios para mais projetos e contri
 
 ## ⭐ Informações sobre minha conta GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thcataclismo&show_icons=true)
+
+<a href="https://github.com/Gurupreet">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Thcataclismo&show_icons=true&theme=dracula&line_height=27" alt="**Thiago Ribeiro** github stats"/>
+</a>
 
 
 
