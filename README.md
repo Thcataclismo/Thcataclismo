@@ -19,11 +19,17 @@ src="https://cdn.svgporn.com/logos/javascript.svg" alt="JavaScript" width="50px"
 src="https://cdn.svgporn.com/logos/react.svg" alt="React" width="50px" height="50px">
 
 ### Back-end
-[<img src="https://cdn.svgporn.com/logos/python.svg" alt="Python" width="50px" height="50px">](https://www.python.org/)
-[<img src="https://cdn.svgporn.com/logos/mysql.svg" alt="MySQL" width="50px" height="50px">](https://www.mysql.com/)
-[<img src="https://cdn.svgporn.com/logos/oracle.svg" alt="Oracle PL/SQL" width="50px" height="50px">](https://www.oracle.com/database/technologies/appdev/plsql.html)
-[<img src="https://cdn.svgporn.com/logos/fastapi-icon.svg" alt="FastAPI" width="50px" height="50px">](https://fastapi.tiangolo.com/)
-[<img src="https://cdn.svgporn.com/logos/sqlalchemy.svg" alt="SQLAlchemy" width="50px" height="50px">](https://www.sqlalchemy.org/)
+<code><img height="30" 
+src="https://cdn.svgporn.com/logos/python.svg" alt="Python" width="50px" height="50px">](https://www.python.org/)
+<code><img height="30" 
+src="https://cdn.svgporn.com/logos/mysql.svg" alt="MySQL" width="50px" height="50px">](https://www.mysql.com/)
+<code><img height="30" 
+src="https://cdn.svgporn.com/logos/oracle.svg" alt="Oracle PL/SQL" width="50px" height="50px">]
+(https://www.oracle.com/database/technologies/appdev/plsql.html)
+<code><img height="30" 
+src="https://cdn.svgporn.com/logos/fastapi-icon.svg" alt="FastAPI" width="50px" height="50px">](https://fastapi.tiangolo.com/)
+<code><img height="30" 
+src="https://cdn.svgporn.com/logos/sqlalchemy.svg" alt="SQLAlchemy" width="50px" height="50px">](https://www.sqlalchemy.org/)
 
 Estou sempre buscando expandir meus conhecimentos nessas tecnologias e explorar novas ferramentas para aprimorar minhas habilidades no desenvolvimento de software, incluindo o uso do React para criar interfaces de usuário interativas e reativas.
 
