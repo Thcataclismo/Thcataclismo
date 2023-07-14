@@ -12,7 +12,7 @@ Olá! Sou Thiago Ribeiro, Trabalho com desenvolvimento Full Stack na LEDAX Energ
 ---
 
 ### Front-end
-[![react]("https://cdn.svgporn.com/logos/html-5.svg")]
+[("https://cdn.svgporn.com/logos/html-5.svg")]
 <code><img height="30" 
 src="https://cdn.svgporn.com/logos/html-5.svg" alt="HTML" width="50px" height="50px">
 </code>
