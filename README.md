@@ -17,7 +17,6 @@ src="https://cdn.svgporn.com/logos/javascript.svg" alt="JavaScript" width="50px"
 </code>
 <code><img height="30" 
 src="https://cdn.svgporn.com/logos/react.svg" alt="React" width="50px" height="50px">
-</code>
 
 ### Back-end
 [<img src="https://cdn.svgporn.com/logos/python.svg" alt="Python" width="50px" height="50px">](https://www.python.org/)
