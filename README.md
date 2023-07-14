@@ -58,15 +58,7 @@ Sinta-se à vontade para explorar meus repositórios para mais projetos e contri
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Thcataclismo&show_icons=true&theme=dracula&line_height=27" alt="**Thiago Ribeiro** github stats"/>
 </a>
 
-
-
-<a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gurupreet&theme=light&hide_langs_below=1" />
-</a>
-<a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gurupreet&show_icons=true&theme=light&line_height=27" alt="Guru's github stats"/>
-</a>
-<a href="https://github.com/Gurupreet/ComposeCookBook">
+<a href="[https://github.com/Gurupreet/ComposeCookBook](https://github.com/Thcataclismo)">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gurupreet&repo=ComposeCookBook&theme=light" />
 #### Rede Sociais!
 
