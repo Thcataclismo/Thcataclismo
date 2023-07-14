@@ -6,10 +6,10 @@ Olá! Sou Thiago Ribeiro, Trabalho com desenvolvimento Full Stack na LEDAX Energ
 ## Ferramentas
 
 ### Front-end
-<code><img height="30" 
+<code><img height="20" 
 src="https://cdn.svgporn.com/logos/html-5.svg" alt="HTML" width="50px" height="50px">
 </code>
-<code><img height="30" 
+<code><img height="20" 
 src="https://cdn.svgporn.com/logos/css-3.svg" alt="CSS" width="50px" height="50px">
 </code>
 <code><img height="30" 
@@ -59,6 +59,15 @@ Sinta-se à vontade para explorar meus repositórios para mais projetos e contri
 </a>
 
 
+
+<a href="https://github.com/Gurupreet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gurupreet&theme=light&hide_langs_below=1" />
+</a>
+<a href="https://github.com/Gurupreet">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gurupreet&show_icons=true&theme=light&line_height=27" alt="Guru's github stats"/>
+</a>
+<a href="https://github.com/Gurupreet/ComposeCookBook">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gurupreet&repo=ComposeCookBook&theme=light" />
 #### Rede Sociais!
 
 <p align="left">
