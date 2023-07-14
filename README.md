@@ -56,10 +56,8 @@ Sinta-se à vontade para explorar meus repositórios para mais projetos e contri
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thcataclismo&show_icons=true)
 
 <a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Thcataclismo&show_icons=true&theme=dracula&line_height=27" alt="**Thiago Ribeiro** github stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thcataclismo&theme=dracula&hide_langs_below=1" />
 </a>
-
-
 
 #### Rede Sociais!
 
