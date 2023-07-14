@@ -12,7 +12,7 @@ Olá! Sou Thiago Ribeiro, Trabalho com desenvolvimento Full Stack na LEDAX Energ
 ---
 
 ### Front-end
-[![react]([link ro ícone](https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn-icons-png.flaticon.com%2F512%2F919%2F919827.png&tbnid=9sZGWiHtU57D7M&vet=12ahUKEwiBxbPBoY6AAxX4BbkGHTO0DGsQMygKegUIARDdAQ..i&imgrefurl=https%3A%2F%2Fwww.flaticon.com%2Fbr%2Ficone-gratis%2Fhtml-5_919827&docid=81m32b-djQN3HM&w=512&h=512&q=link%20do%20icone%20do%20%20html&ved=2ahUKEwiBxbPBoY6AAxX4BbkGHTO0DGsQMygKegUIARDdAQ))](link destino se clicar)
+[![react](link ro ícone)](link destino se clicar)
 <code><img height="30" 
 src="https://cdn.svgporn.com/logos/html-5.svg" alt="HTML" width="50px" height="50px">
 </code>
