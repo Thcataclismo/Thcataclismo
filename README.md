@@ -48,6 +48,8 @@ FastAPI com SqlAlchemy(https://github.com/Thcataclismo/FastAPI_SQLAlchemy/blob/m
 
 Sinta-se à vontade para explorar meus repositórios para mais projetos e contribuições.
 
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=iuricode&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
+
 
 #### Rede Sociais!
 
