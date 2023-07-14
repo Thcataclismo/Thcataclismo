@@ -20,16 +20,20 @@ src="https://cdn.svgporn.com/logos/react.svg" alt="React" width="50px" height="5
 
 ### Back-end
 <code><img height="30" 
-src="https://cdn.svgporn.com/logos/python.svg" alt="Python" width="50px" height="50px">](https://www.python.org/)
+src="https://cdn.svgporn.com/logos/python.svg" alt="Python" width="50px" height="50px">
+</code>
 <code><img height="30" 
-src="https://cdn.svgporn.com/logos/mysql.svg" alt="MySQL" width="50px" height="50px">](https://www.mysql.com/)
+src="https://cdn.svgporn.com/logos/mysql.svg" alt="MySQL" width="50px" height="50px">
+</code>
 <code><img height="30" 
-src="https://cdn.svgporn.com/logos/oracle.svg" alt="Oracle PL/SQL" width="50px" height="50px">]
-(https://www.oracle.com/database/technologies/appdev/plsql.html)
+src="https://cdn.svgporn.com/logos/oracle.svg" alt="Oracle PL/SQL" width="50px" height="50px">
+</code>
 <code><img height="30" 
-src="https://cdn.svgporn.com/logos/fastapi-icon.svg" alt="FastAPI" width="50px" height="50px">](https://fastapi.tiangolo.com/)
+src="https://cdn.svgporn.com/logos/fastapi-icon.svg" alt="FastAPI" width="50px" height="50px">
+</code>
 <code><img height="30" 
-src="https://cdn.svgporn.com/logos/sqlalchemy.svg" alt="SQLAlchemy" width="50px" height="50px">](https://www.sqlalchemy.org/)
+src="https://cdn.svgporn.com/logos/sqlalchemy.svg" alt="SQLAlchemy" width="50px" height="50px">
+</code>
 
 Estou sempre buscando expandir meus conhecimentos nessas tecnologias e explorar novas ferramentas para aprimorar minhas habilidades no desenvolvimento de software, incluindo o uso do React para criar interfaces de usuário interativas e reativas.
 
