@@ -3,6 +3,7 @@
 ---
 
 ## Sobre mim
+
 Olá! Sou Thiago Ribeiro, Trabalho com desenvolvimento Full Stack na LEDAX Energia. Sou apaixonado por tecnologia e tenho experiência em várias ferramentas e tecnologias do mundo do desenvolvimento de software e machine learning.
 
 ---
@@ -12,7 +13,7 @@ Olá! Sou Thiago Ribeiro, Trabalho com desenvolvimento Full Stack na LEDAX Energ
 ---
 
 ### Front-end
-[![react](link ro ícone)](link destino se clicar)
+
 <code><img height="30" 
 src="https://cdn.svgporn.com/logos/html-5.svg" alt="HTML" width="50px" height="50px">
 </code>
@@ -28,6 +29,7 @@ src="https://cdn.svgporn.com/logos/react.svg" alt="React" width="50px" height="5
 ---
 
 ### Back-end
+
 <code><img height="30" 
 src="https://cdn.svgporn.com/logos/python.svg" alt="Python" width="50px" height="50px">
 </code>
