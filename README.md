@@ -10,12 +10,12 @@
 - Rede Social com HTML e CSS - https://github.com/Thcataclismo/Redesocial
 
 💬 Entre em Contato!
-Olá! Se você tiver alguma dúvida, sugestão ou apenas queira trocar ideias sobre desenvolvimento de software, engenharia de dados ou qualquer outro assunto relacionado, fique à vontade para entrar em contato comigo. Estou sempre aberto a novas conversas e adoro colaborar com outros desenvolvedores.
+- Olá! Se você tiver alguma dúvida, sugestão ou apenas queira trocar ideias sobre desenvolvimento de software, engenharia de dados ou qualquer outro assunto relacionado, fique à vontade para entrar em contato comigo. Estou sempre aberto a novas conversas e adoro colaborar com outros desenvolvedores.
 
 Você pode entrar em contato comigo por meio das seguintes opções
 
-E-mail: thiago2002sr@gmail.com
-LinkedIn: [seu-perfil-linkedin](https://www.linkedin.com/in/thiago-ribeiroml/)
+- E-mail: thiago2002sr@gmail.com
+- LinkedIn: [seu-perfil-linkedin](https://www.linkedin.com/in/thiago-ribeiroml/)
 
 ----
 
