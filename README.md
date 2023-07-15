@@ -25,10 +25,10 @@ LinkedIn: [seu-perfil-linkedin](https://www.linkedin.com/in/thiago-ribeiroml/)
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="PYTHON"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="HTML"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="CSS"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="REACT"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="NEXT.JS"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="ORACLE"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="DOCKER"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="REACT"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png" alt="NEXT.JS"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/oracle-database/oracle-database.png" alt="ORACLE"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/docker-image/docker-image.png" alt="DOCKER"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/fastapi/fastapi.png" alt="FASTAPI"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JAVASCRIPT"/></code>
 <code><img height="32" src="https://icon.icepanel.io/Technology/png-shadow-512/SQLAlchemy.png" alt="SQLALCHEMY"/></code>
