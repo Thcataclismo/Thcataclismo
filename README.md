@@ -15,8 +15,8 @@
 Você pode entrar em contato comigo por meio das seguintes opções
 
 - E-mail: thiago2002sr@gmail.com
-- LinkedIn: [seu-perfil-linkedin](https://www.linkedin.com/in/thiago-ribeiroml/)
-- Medium: 
+- LinkedIn: [Meu perfil linkedin](https://www.linkedin.com/in/thiago-ribeiroml/)
+- Medium: [Meu perfil Medium](https://medium.com/@repositoriothiago)
 
 ----
 
