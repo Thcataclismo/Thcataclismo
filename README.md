@@ -1,19 +1,40 @@
-#### Redes Sociais!
+## 💜 Olá, meu nome é <strong>Thiago Ribeiro!</strong>
 
-<p align="left">
-  <a href="https://mail.google.com/mail/u/0/#inbox" alt="Gmail">
-    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" />
-  </a>
+> Atualmente trabalho como desenvolvedor full stack na ledax em salvador.
 
-  <a href="https://www.linkedin.com/in/thiago-ribeiro-9893491a0/" alt="LinkedIn">
-    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" />
-  </a>
+🔭 Projetos Atuais
+.Pipeline de procesamento de dados - https://github.com/Thcataclismo/Analysis_of_Sentiments
+.Gerenciamento de conteufdo com FastAPI e SQLalchemy - https://github.com/Thcataclismo/GerenciamentoDeConteudo
+.Landing page com react - https://github.com/Thcataclismo/landingpage
+Sistema de recomendação TED TALK - https://github.com/Thcataclismo/Sistema_de_Recomenda-o_de_Ted_Talks
+. Rede Social com HTML e CSS
 
-  <a href="API-DO-SEU-WHATSAP" alt="WhatsApp">
-    <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white" />
-  </a>
+💬 Entre em Contato!
+Olá! Se você tiver alguma dúvida, sugestão ou apenas queira trocar ideias sobre desenvolvimento de software, engenharia de dados ou qualquer outro assunto relacionado, fique à vontade para entrar em contato comigo. Estou sempre aberto a novas conversas e adoro colaborar com outros desenvolvedores.
 
-  <a href="https://www.instagram.com/thiag0.sr/" alt="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" />
-  </a>
-</p>
+Você pode entrar em contato comigo por meio das seguintes opções:
+
+E-mail: thiago2002sr@gmail.com
+LinkedIn: [seu-perfil-linkedin](https://www.linkedin.com/in/thiago-ribeiroml/)
+
+----
+
+## 🚀 Minhas Skills
+
+<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
+<code><img height="32" src="[https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png](https://raw.githubusercontent.com/github/explore/main/topics/python/python.png)" alt="Javascript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
+
+---
+
+## ⭐ Informações sobre minha conta GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thcataclismo&show_icons=true)
