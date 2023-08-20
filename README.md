@@ -26,8 +26,6 @@ Você pode entrar em contato comigo por meio das seguintes opções
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="PYTHON"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="HTML"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="CSS"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="REACT"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png" alt="NEXT.JS"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/oracle-database/oracle-database.png" alt="ORACLE"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/docker-image/docker-image.png" alt="DOCKER"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/fastapi/fastapi.png" alt="FASTAPI"/></code>
