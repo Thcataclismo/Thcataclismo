@@ -1,4 +1,4 @@
-## 💜 Hello, my name is <strong>Thiago Ribeiro!</strong>
+##  Hello, my name is <strong>Thiago Ribeiro!</strong>
 
 > I currently work as a full stack developer at ledax in Salvador.
 
